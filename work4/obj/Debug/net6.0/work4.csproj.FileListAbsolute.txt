@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\work4.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\work4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\work4.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\work4.AssemblyInfo.cs
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\work4.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\beta\for geek\work4\bin\Debug\net6.0\work4.exe
+C:\Users\danil\Desktop\beta\for geek\work4\bin\Debug\net6.0\work4.deps.json
+C:\Users\danil\Desktop\beta\for geek\work4\bin\Debug\net6.0\work4.runtimeconfig.json
+C:\Users\danil\Desktop\beta\for geek\work4\bin\Debug\net6.0\work4.dll
+C:\Users\danil\Desktop\beta\for geek\work4\bin\Debug\net6.0\work4.pdb
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\work4.dll
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\refint\work4.dll
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\work4.pdb
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\work4.genruntimeconfig.cache
+C:\Users\danil\Desktop\beta\for geek\work4\obj\Debug\net6.0\ref\work4.dll
